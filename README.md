@@ -212,18 +212,18 @@ The notebook automatically generates `submission.csv` which can be uploaded to K
 ✅ Early stopping prevented overfitting
 
 ### Challenges Encountered
-⚠️ Class imbalance required careful handling  
-⚠️ Small image size (96×96) limited detail  
-⚠️ Medical imaging domain differs from ImageNet  
-⚠️ Computational constraints with large models
+- Class imbalance required careful handling  
+- Small image size (96×96) limited detail  
+- Medical imaging domain differs from ImageNet  
+- Computational constraints with large models
 
 ### Future Improvements
-🔮 Ensemble methods combining multiple models  
-🔮 Advanced augmentation (stain normalization)  
-🔮 Attention mechanisms for region focus  
-🔮 Vision Transformers exploration  
-🔮 Explainability with Grad-CAM  
-🔮 External validation on diverse datasets
+- Ensemble methods combining multiple models  
+- Advanced augmentation (stain normalization)  
+- Attention mechanisms for region focus  
+- Vision Transformers exploration  
+- Explainability with Grad-CAM  
+- External validation on diverse datasets
 
 ## Technologies Used
 
@@ -287,13 +287,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 **Your Name**  
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- GitHub:(https://github.com/Abraham-git-hub)
+
 
 ## Project Status
 
-🚀 **Completed** - December 2024
+**Completed** - December 2025
 
 This project was completed as part of a machine learning course assignment. The models and analysis are fully functional and documented.
 
